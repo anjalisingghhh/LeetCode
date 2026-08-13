@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/anjalisingghhh/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |

@@ -22,12 +22,14 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/anjalisingghhh/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |

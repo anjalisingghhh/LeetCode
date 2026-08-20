@@ -4,43 +4,44 @@ public:
     {
         int m = matrix.size();
         int n = matrix[0].size();
-        vector<int> result;
 
         int top = 0;
-        int right = n - 1;
-        int bottom = m - 1;
         int left = 0;
+        int right = matrix[0].size() - 1;
+        int bottom = matrix.size() - 1;
+        vector<int> result;
 
-        while (top <= bottom && left <= right)
+
+        while(top <= bottom && left <= right)
         {
-            // Top row
-            for (int i = left; i <= right; i++)
+            // top row
+            for(int i = left; i <= right; i++)
             {
                 result.push_back(matrix[top][i]);
             }
             top++;
 
-            // Right column
-            for (int i = top; i <= bottom; i++)
+            // right column
+            for(int i = top; i <= bottom; i++)
             {
                 result.push_back(matrix[i][right]);
             }
             right--;
 
-            // Bottom row
-            if (top <= bottom)
+            // bottom row
+            if(top <= bottom)
             {
-                for (int i = right; i >= left; i--)
+                for(int i = right; i >= left; i--)
                 {
                     result.push_back(matrix[bottom][i]);
                 }
                 bottom--;
             }
 
-            // Left column
-            if (left <= right)
+            // left row
+            if(left <= right)
             {
-                for (int i = bottom; i >= top; i--)
+                for(int i = bottom; i >= top; i--)
                 {
                     result.push_back(matrix[i][left]);
                 }

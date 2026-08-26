@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | ------- |
 | [0001-two-sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/anjalisingghhh/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/anjalisingghhh/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anjalisingghhh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anjalisingghhh/LeetCode/tree/master/0054-spiral-matrix) |
@@ -61,6 +62,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anjalisingghhh/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation

@@ -133,4 +133,8 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anjalisingghhh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
 <!---LeetCode Topics End-->

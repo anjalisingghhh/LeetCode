@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anjalisingghhh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anjalisingghhh/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anjalisingghhh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anjalisingghhh/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/anjalisingghhh/LeetCode/tree/master/0118-pascals-triangle) |
@@ -59,6 +60,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |

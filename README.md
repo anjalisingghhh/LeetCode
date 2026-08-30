@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0560-subarray-sum-equals-k](https://github.com/anjalisingghhh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalisingghhh/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjalisingghhh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -140,4 +141,8 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->

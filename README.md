@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |

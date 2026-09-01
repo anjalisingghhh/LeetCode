@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | ------- |
 | [0001-two-sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anjalisingghhh/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/anjalisingghhh/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0018-4sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anjalisingghhh/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anjalisingghhh/LeetCode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |

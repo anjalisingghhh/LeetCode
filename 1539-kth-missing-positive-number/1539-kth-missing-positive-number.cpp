@@ -2,19 +2,44 @@ class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) 
     {
-        vector<int> missing;
+        // APPROACH - 02 OPTIMISED APPROACH
+        int count = 0;
         int num = 1;
         int i = 0;
 
-        while(missing.size() < k)
+        while(count < k)
         {
             if(i < arr.size() && arr[i] == num)
                 i++;
             else
-                missing.push_back(num);
+            {
+                count++;
 
-            num++;  
+                if(count == k)
+                    return num;
+            }
+            num++;
         }
-        return missing[k - 1];    
+        return -1;
+
+
+//----------------------------------------------------------------------------------------------
+
+
+        // // APPROACH - 01 BRUTE FORCE
+        // vector<int> missing;
+        // int num = 1;
+        // int i = 0;
+
+        // while(missing.size() < k)
+        // {
+        //     if(i < arr.size() && arr[i] == num)
+        //         i++;
+        //     else
+        //         missing.push_back(num);
+
+        //     num++;  
+        // }
+        // return missing[k - 1];    
     }
 };

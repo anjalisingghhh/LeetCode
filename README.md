@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anjalisingghhh/LeetCode/tree/master/0031-next-permutation) |
@@ -76,6 +77,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anjalisingghhh/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
@@ -113,6 +115,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anjalisingghhh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0169-majority-element) |
 ## Counting

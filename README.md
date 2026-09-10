@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0229-majority-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/anjalisingghhh/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalisingghhh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalisingghhh/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0035-search-insert-position](https://github.com/anjalisingghhh/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
@@ -119,6 +121,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0004-median-of-two-sorted-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anjalisingghhh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -165,4 +168,24 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

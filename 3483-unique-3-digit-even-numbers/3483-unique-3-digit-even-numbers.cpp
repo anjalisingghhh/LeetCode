@@ -2,11 +2,12 @@ class Solution {
 public:
     int totalNumbers(vector<int>& digits) 
     {
-        set<int> st;
+        // // APPROACH - 01 BRUTE FORCE
+        unordered_set<int> st;
 
         for (int i = 0; i < digits.size(); i++) 
         {
-            if (digits[i] == 0) continue; 
+            if (digits[i] == 0) continue;
 
             for (int j = 0; j < digits.size(); j++) 
             {
@@ -23,6 +24,6 @@ public:
                 }
             }
         }
-        return st.size();       
+        return st.size();     
     }
 };

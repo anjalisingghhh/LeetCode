@@ -2,6 +2,7 @@ class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) 
     {
+        // APPROACH - 01 BRUTE FORCE
         vector<int> temp;
         int i = 0, j = 0;
 
@@ -25,5 +26,6 @@ public:
         {
             nums1[k] = temp[k];
         }
+        
     }
 };

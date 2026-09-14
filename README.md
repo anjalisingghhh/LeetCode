@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/anjalisingghhh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/anjalisingghhh/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjalisingghhh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -213,4 +214,8 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anjalisingghhh/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

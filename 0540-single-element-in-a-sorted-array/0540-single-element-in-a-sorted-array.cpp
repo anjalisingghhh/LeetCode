@@ -2,13 +2,33 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) 
     {
-        // APPROACH - 01 BRUTE FORCE
-        int xorValue = 0;
+        // APPROACH - 02
+        unordered_map<int, int> freq;
 
-        for(int i = 0; i < nums.size(); i++)
+        for (int num : nums)
+            freq[num]++;
+
+        for (auto& it : freq)
         {
-            xorValue ^= nums[i];
+            if (it.second == 1)
+                return it.first;
         }
-        return xorValue;
+        return -1;
+
+
+
+
+//----------------------------------------------------------------------------------------------
+
+
+
+        // // APPROACH - 01
+        // int xorValue = 0;
+
+        // for(int i = 0; i < nums.size(); i++)
+        // {
+        //     xorValue ^= nums[i];
+        // }
+        // return xorValue;
     }
 };

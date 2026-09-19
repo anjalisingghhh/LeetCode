@@ -119,6 +119,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anjalisingghhh/LeetCode/tree/master/0031-next-permutation) |
@@ -156,6 +157,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anjalisingghhh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/anjalisingghhh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalisingghhh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -184,6 +186,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
@@ -231,4 +234,8 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anjalisingghhh/LeetCode/tree/master/0836-rectangle-overlap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

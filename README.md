@@ -167,6 +167,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | ------- |
 | [0054-spiral-matrix](https://github.com/anjalisingghhh/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -190,6 +191,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0151-reverse-words-in-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |

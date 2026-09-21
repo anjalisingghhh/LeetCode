@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/anjalisingghhh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/anjalisingghhh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/anjalisingghhh/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -96,6 +97,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/anjalisingghhh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |

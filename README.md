@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0229-majority-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |

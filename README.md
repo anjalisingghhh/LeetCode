@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anjalisingghhh/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjalisingghhh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjalisingghhh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/anjalisingghhh/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -86,6 +87,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anjalisingghhh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/anjalisingghhh/LeetCode/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anjalisingghhh/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/anjalisingghhh/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjalisingghhh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |

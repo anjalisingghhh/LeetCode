@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0560-subarray-sum-equals-k](https://github.com/anjalisingghhh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/anjalisingghhh/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anjalisingghhh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -105,6 +106,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anjalisingghhh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |

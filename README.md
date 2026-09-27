@@ -201,6 +201,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -251,4 +252,12 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

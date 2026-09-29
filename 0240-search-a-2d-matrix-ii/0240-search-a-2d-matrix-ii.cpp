@@ -2,19 +2,49 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) 
     {
-        // APPROACH - 01 BRUTE FORCE
-        int m = matrix.size();
-        int n = matrix[0].size();
-
-        for (int i = 0; i < m; i++) 
+        int rows = matrix.size();
+        int cols = matrix[0].size();
+ 
+        int row = 0;
+        int col = cols - 1;
+ 
+        while (row < rows && col >= 0) 
         {
-            for (int j = 0; j < n; j++) 
+            int current = matrix[row][col];
+ 
+            if (current == target) 
             {
-                if (matrix[i][j] == target)
-                    return true;
+                return true;
+            }
+ 
+            if (current > target) 
+            {
+                col--;
+            } 
+            else 
+            {
+                row++;
             }
         }
         return false;
-        
+
+
+
+//--------------------------------------------------------------------------------------------
+
+
+        // // APPROACH - 01 BRUTE FORCE
+        // int m = matrix.size();
+        // int n = matrix[0].size();
+
+        // for (int i = 0; i < m; i++) 
+        // {
+        //     for (int j = 0; j < n; j++) 
+        //     {
+        //         if (matrix[i][j] == target)
+        //             return true;
+        //     }
+        // }
+        // return false;
     }
 };

@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anjalisingghhh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -113,6 +114,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anjalisingghhh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -195,6 +197,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0054-spiral-matrix](https://github.com/anjalisingghhh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anjalisingghhh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |

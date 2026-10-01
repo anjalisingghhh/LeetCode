@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anjalisingghhh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/anjalisingghhh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anjalisingghhh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anjalisingghhh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
@@ -210,6 +212,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/anjalisingghhh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |

@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalisingghhh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anjalisingghhh/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjalisingghhh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -167,6 +168,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0169-majority-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anjalisingghhh/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -212,6 +214,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/anjalisingghhh/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |

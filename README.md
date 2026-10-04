@@ -92,6 +92,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0013-roman-to-integer](https://github.com/anjalisingghhh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anjalisingghhh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/anjalisingghhh/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -183,6 +184,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anjalisingghhh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anjalisingghhh/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anjalisingghhh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjalisingghhh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anjalisingghhh/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -278,4 +280,8 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

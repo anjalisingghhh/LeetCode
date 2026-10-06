@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0009-palindrome-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anjalisingghhh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anjalisingghhh/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
@@ -251,6 +252,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anjalisingghhh/LeetCode/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |

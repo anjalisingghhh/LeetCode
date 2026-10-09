@@ -226,12 +226,14 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anjalisingghhh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anjalisingghhh/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anjalisingghhh/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anjalisingghhh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anjalisingghhh/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Indexed Tree
 |  |
@@ -283,11 +285,13 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anjalisingghhh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anjalisingghhh/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anjalisingghhh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anjalisingghhh/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Memoization
 |  |
 | ------- |

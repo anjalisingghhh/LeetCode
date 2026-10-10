@@ -152,6 +152,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0075-sort-colors](https://github.com/anjalisingghhh/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
@@ -222,6 +223,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0013-roman-to-integer](https://github.com/anjalisingghhh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anjalisingghhh/LeetCode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anjalisingghhh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjalisingghhh/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |

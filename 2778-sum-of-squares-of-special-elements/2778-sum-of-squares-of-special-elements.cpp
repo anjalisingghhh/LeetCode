@@ -6,13 +6,37 @@ public:
         int n = nums.size();
         int ans = 0;
 
-        for (int i = 1; i <= n; i++) 
+        for (int i = 1; i * i <= n; i++) 
         {
             if (n % i == 0) 
             {
                 ans += nums[i - 1] * nums[i - 1];
+                int d = n / i;
+                if (d != i) 
+                {
+                    ans += nums[d - 1] * nums[d - 1];
+                }
             }
         }
         return ans;
+
+
+
+//--------------------------------------------------------------------------------
+
+
+
+        // // APPROACH - 01 BRUTE FORCE
+        // int n = nums.size();
+        // int ans = 0;
+
+        // for (int i = 1; i <= n; i++) 
+        // {
+        //     if (n % i == 0) 
+        //     {
+        //         ans += nums[i - 1] * nums[i - 1];
+        //     }
+        // }
+        // return ans;
     }
 };

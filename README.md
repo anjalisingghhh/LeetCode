@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anjalisingghhh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anjalisingghhh/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/anjalisingghhh/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/anjalisingghhh/LeetCode/tree/master/0118-pascals-triangle) |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anjalisingghhh/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
@@ -315,5 +317,6 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/anjalisingghhh/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/anjalisingghhh/LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/anjalisingghhh/LeetCode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->

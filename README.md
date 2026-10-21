@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anjalisingghhh/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/anjalisingghhh/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/anjalisingghhh/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0066-plus-one](https://github.com/anjalisingghhh/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/anjalisingghhh/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/anjalisingghhh/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/anjalisingghhh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0509-fibonacci-number) |
@@ -280,6 +282,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anjalisingghhh/LeetCode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anjalisingghhh/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
@@ -323,4 +326,20 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0040-combination-sum-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anjalisingghhh/LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/anjalisingghhh/LeetCode/tree/master/0216-combination-sum-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anjalisingghhh/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anjalisingghhh/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anjalisingghhh/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anjalisingghhh/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

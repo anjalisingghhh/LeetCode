@@ -1,17 +1,64 @@
 class Solution 
 {
 public:
+    // APPROACH - 02
+    int countLessEqual(vector<vector<int>>& matrix, int mid) 
+    {
+        int n = matrix.size();
+        int row = n - 1;
+        int col = 0;
+        int count = 0;
+
+        while (row >= 0 && col < n) 
+        {
+            if (matrix[row][col] <= mid) 
+            {
+                count += row + 1;
+                col++;
+
+            } 
+            else
+                row--;
+        }
+        return count;
+    }
+
     int kthSmallest(vector<vector<int>>& matrix, int k) 
     {
-        vector<int> nums;
-        for (auto &row : matrix) 
+
+        int n = matrix.size();
+        int low = matrix[0][0];
+        int high = matrix[n - 1][n - 1];
+
+        while (low < high) 
         {
-            for (int x : row) 
-            {
-                nums.push_back(x);
-            }
+            int mid = low + (high - low) / 2;
+            if (countLessEqual(matrix, mid) < k)
+                low = mid + 1;
+            else
+                high = mid;
         }
-        sort(nums.begin(), nums.end());
-        return nums[k - 1];
+        return low;
     }
+
+
+
+//-------------------------------------------------------------------------------------------------
+
+
+
+    // // APPROACH - 01 BRUTE FORCE
+    // int kthSmallest(vector<vector<int>>& matrix, int k) 
+    // {
+    //     vector<int> nums;
+    //     for (auto &row : matrix) 
+    //     {
+    //         for (int x : row) 
+    //         {
+    //             nums.push_back(x);
+    //         }
+    //     }
+    //     sort(nums.begin(), nums.end());
+    //     return nums[k - 1];
+    // }
 };

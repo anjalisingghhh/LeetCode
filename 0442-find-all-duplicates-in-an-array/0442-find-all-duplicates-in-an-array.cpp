@@ -1,23 +1,65 @@
 class Solution 
 {
 public:
-
-    // APPROACH - 02 
+    // APPROACH - 04
     vector<int> findDuplicates(vector<int>& nums) 
     {
-        unordered_map<int,int> mp;
+        sort(nums.begin(), nums.end());
         vector<int> ans;
 
-        for (int x : nums)
-            mp[x]++;
-
-        for (auto &p : mp) 
+        for (int i = 1; i < nums.size(); i++) 
         {
-            if (p.second == 2)
-                ans.push_back(p.first);
+            if (nums[i] == nums[i - 1])
+                ans.push_back(nums[i]);
         }
         return ans;
     }
+
+
+
+//--------------------------------------------------------------------------------------------------
+
+
+
+    // // APPROACH - 03
+    // vector<int> findDuplicates(vector<int>& nums) 
+    // {
+    //     unordered_set<int> seen;
+    //     vector<int> ans;
+
+    //     for (int x : nums) 
+    //     {
+    //         if (seen.count(x))
+    //             ans.push_back(x);
+    //         else
+    //             seen.insert(x);
+    //     }
+    //     return ans;
+    // }
+
+
+
+
+//--------------------------------------------------------------------------------------------------
+
+
+
+    // // APPROACH - 02 
+    // vector<int> findDuplicates(vector<int>& nums) 
+    // {
+    //     unordered_map<int,int> mp;
+    //     vector<int> ans;
+
+    //     for (int x : nums)
+    //         mp[x]++;
+
+    //     for (auto &p : mp) 
+    //     {
+    //         if (p.second == 2)
+    //             ans.push_back(p.first);
+    //     }
+    //     return ans;
+    // }
 
 
 

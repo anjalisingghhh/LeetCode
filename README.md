@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0240-search-a-2d-matrix-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anjalisingghhh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anjalisingghhh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/anjalisingghhh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +91,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0229-majority-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anjalisingghhh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anjalisingghhh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/anjalisingghhh/LeetCode/tree/master/0575-distribute-candies) |
@@ -155,6 +157,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0242-valid-anagram](https://github.com/anjalisingghhh/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anjalisingghhh/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers

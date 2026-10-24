@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0367-valid-perfect-square](https://github.com/anjalisingghhh/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anjalisingghhh/LeetCode/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/anjalisingghhh/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anjalisingghhh/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/anjalisingghhh/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -253,6 +254,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [1446-consecutive-characters](https://github.com/anjalisingghhh/LeetCode/tree/master/1446-consecutive-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anjalisingghhh/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anjalisingghhh/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2409-count-days-spent-together](https://github.com/anjalisingghhh/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |

@@ -360,4 +360,12 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/anjalisingghhh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

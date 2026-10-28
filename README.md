@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0704-binary-search](https://github.com/anjalisingghhh/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anjalisingghhh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anjalisingghhh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/anjalisingghhh/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -176,6 +177,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0088-merge-sorted-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1089-duplicate-zeros](https://github.com/anjalisingghhh/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |

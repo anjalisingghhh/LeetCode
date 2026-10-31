@@ -372,4 +372,8 @@ This repository contains my solutions to LeetCode problems that I solve every da
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/anjalisingghhh/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

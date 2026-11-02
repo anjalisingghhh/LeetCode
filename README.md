@@ -104,6 +104,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anjalisingghhh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anjalisingghhh/LeetCode/tree/master/0048-rotate-image) |
@@ -293,6 +294,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anjalisingghhh/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/anjalisingghhh/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/anjalisingghhh/LeetCode/tree/master/0509-fibonacci-number) |
@@ -376,6 +378,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anjalisingghhh/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anjalisingghhh/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

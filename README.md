@@ -381,4 +381,5 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0002-add-two-numbers](https://github.com/anjalisingghhh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/anjalisingghhh/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anjalisingghhh/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/anjalisingghhh/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

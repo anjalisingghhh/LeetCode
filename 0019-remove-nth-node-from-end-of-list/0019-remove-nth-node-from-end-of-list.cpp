@@ -12,40 +12,66 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) 
     {
-        // FIRST APPROACH
-        if (head == NULL) return NULL;
-    
-        int cnt = 0;
-        ListNode* temp = head;
+        // SECOND APPROACH - OPTIMAL APPROACH
+        ListNode* fastp = head;
+        ListNode* slowp = head;
 
-        while (temp != NULL) 
+        for (int i = 0; i < n; i++)
+            fastp = fastp->next;
+
+        if (fastp == NULL)
+            return head->next;
+
+        while (fastp->next != NULL) 
         {
-            cnt++;
-            temp = temp->next;
+            fastp = fastp->next;
+            slowp = slowp->next;
         }
 
-        if (cnt == n) 
-        {
-            ListNode* newhead = head->next;
-            delete (head);
-            return newhead;
-        }
-
-        int res = cnt - n;
-        temp = head;
-
-        while (temp != NULL) 
-        {
-            res--;
-            if (res == 0) 
-                break;
-            temp = temp->next;
-        }
-
-        ListNode* delNode = temp->next;
-        temp->next = temp->next->next;
-        delete (delNode);
+        ListNode* delNode = slowp->next;
+        slowp->next = slowp->next->next;
+        delete delNode;
         return head;
-        
+
+
+
+//-------------------------------------------------------------------------------------------------
+
+
+
+        // // FIRST APPROACH
+        // if (head == NULL) return NULL;
+    
+        // int cnt = 0;
+        // ListNode* temp = head;
+
+        // while (temp != NULL) 
+        // {
+        //     cnt++;
+        //     temp = temp->next;
+        // }
+
+        // if (cnt == n) 
+        // {
+        //     ListNode* newhead = head->next;
+        //     delete (head);
+        //     return newhead;
+        // }
+
+        // int res = cnt - n;
+        // temp = head;
+
+        // while (temp != NULL) 
+        // {
+        //     res--;
+        //     if (res == 0) 
+        //         break;
+        //     temp = temp->next;
+        // }
+
+        // ListNode* delNode = temp->next;
+        // temp->next = temp->next->next;
+        // delete (delNode);
+        // return head;
     }
 };

@@ -69,6 +69,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anjalisingghhh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/anjalisingghhh/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -141,6 +142,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0875-koko-eating-bananas](https://github.com/anjalisingghhh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anjalisingghhh/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anjalisingghhh/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/anjalisingghhh/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -165,6 +167,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0442-find-all-duplicates-in-an-array](https://github.com/anjalisingghhh/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anjalisingghhh/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/anjalisingghhh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anjalisingghhh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -181,6 +184,7 @@ This repository contains my solutions to LeetCode problems that I solve every da
 | [0345-reverse-vowels-of-a-string](https://github.com/anjalisingghhh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/anjalisingghhh/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1089-duplicate-zeros](https://github.com/anjalisingghhh/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjalisingghhh/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjalisingghhh/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
